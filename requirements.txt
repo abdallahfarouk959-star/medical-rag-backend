@@ -1,0 +1,21 @@
+# Web Framework & API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# LangChain Core & Integrations
+langchain
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langchain-pinecone
+
+# Vector DB & Embeddings
+pinecone
+sentence-transformers
+
+# Document Parsing
+pymupdf

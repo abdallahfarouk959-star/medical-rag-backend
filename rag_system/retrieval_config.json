@@ -1,0 +1,7 @@
+{
+  "TARGET_TOKENS": 400,
+  "CANDIDATE_POOL": 30,
+  "HYBRID_ALPHA": 0.5,
+  "RELEVANCE_FLOOR": 0.005,
+  "RERANK_MODEL": "cross-encoder/ms-marco-MiniLM-L-6-v2"
+}
